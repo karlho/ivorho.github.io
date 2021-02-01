@@ -1,1 +1,1 @@
-# This is Ivor Ho website
+# Welcome to Ivor Ho's website.
